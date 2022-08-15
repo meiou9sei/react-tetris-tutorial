@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-tetris-tutorial/static/css/main.dfcb4344.css",
-    "main.js": "/react-tetris-tutorial/static/js/main.3e19633e.js",
+    "main.js": "/react-tetris-tutorial/static/js/main.8d6c13dc.js",
     "static/media/bg.png": "/react-tetris-tutorial/static/media/bg.d63cfd51f1a63591fdd7.png",
     "static/media/Pixel-LCD-7.woff": "/react-tetris-tutorial/static/media/Pixel-LCD-7.63d9c15192fdeab6d3a6.woff",
     "index.html": "/react-tetris-tutorial/index.html",
     "main.dfcb4344.css.map": "/react-tetris-tutorial/static/css/main.dfcb4344.css.map",
-    "main.3e19633e.js.map": "/react-tetris-tutorial/static/js/main.3e19633e.js.map"
+    "main.8d6c13dc.js.map": "/react-tetris-tutorial/static/js/main.8d6c13dc.js.map"
   },
   "entrypoints": [
     "static/css/main.dfcb4344.css",
-    "static/js/main.3e19633e.js"
+    "static/js/main.8d6c13dc.js"
   ]
 }
